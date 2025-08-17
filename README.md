@@ -35,7 +35,7 @@ Perfect for:
 
 ## 🚀 Getting Started  
 
-### 1️⃣ Clone the Repo  - git clone https://github.com/your-username/data-analyst-agent.git
+### 1️⃣ Clone the Repo  - git clone https://github.com/Dev1anshi/TDS-Project-2
 cd data-analyst-agent
 
 ### 2️⃣ Install Requirements  - pip install -r requirements.txt
